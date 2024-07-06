@@ -1,13 +1,13 @@
-package jss.nursingmap;
+package jss.practicemap;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class NursingmapApplication {
+public class PracticemapApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(NursingmapApplication.class, args);
+		SpringApplication.run(PracticemapApplication.class, args);
 	}
 
 }

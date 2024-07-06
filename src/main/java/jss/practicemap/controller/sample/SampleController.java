@@ -1,4 +1,4 @@
-package jss.nursingmap.controller.sample;
+package jss.practicemap.controller.sample;
 
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
