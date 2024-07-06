@@ -2,6 +2,6 @@ package jss.nursingmap.domain.sample;
 
 import jakarta.persistence.Entity;
 
-@Entity
+//@Entity
 public class Sample {
 }
